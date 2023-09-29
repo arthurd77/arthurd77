@@ -1,7 +1,5 @@
 # Saudação Dev(a)! :dart:
 
-<img src="https://placehold.co/200x150" width="200px" align="right" >
-
 - :mortar_board:Desenvolvedor Back-end
 - :open_book: Cursando Sistemas de informação na Universidade Federal Rural da Amazônia
 
